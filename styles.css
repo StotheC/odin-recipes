@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    background-color: antiquewhite;
+    font-family: monospace;
+}
+h1 {
+    color: green;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    display: inline-flex;
+}
+li {
+    padding: 12px;
+}
+a:link {
+    color: green;
+}
+a:hover {
+    color:aqua;
+    border: 1px solid orange;
+}
